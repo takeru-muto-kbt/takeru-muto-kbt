@@ -1,12 +1,15 @@
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=arduino,atom,aws,azure,autocad,bash,blender,c,cpp,css,docker,electron,firebase,flask,gcp,git,heroku,html,java,js,jquery,latex,mysql,nodejs,py,qt,react,swift,vim,wordpress" />
-
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=arduino,atom,aws,azure,autocad,bash,blender,c,cpp,css,docker,electron,firebase,flask,gcp,git,heroku,html,java,js,jquery,latex,mysql,nodejs,py,qt,react,swift,vim,wordpress" />
 
 ## 🏅 Status
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=takeru-muto-kbt&margin-w=5)](https://github.com/takeru-muto-kbt/)
+
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeru-muto-kbt&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takeru-muto-kbt" />
+    <img alt="Summary" width="685px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takeru-muto-kbt&theme=github" />   
+    <img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takeru-muto-kbt&theme=github" />
+    <img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takeru-muto-kbt&theme=github" />
+    <img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takeru-muto-kbt&theme=github" />
+    <img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takeru-muto-kbt&theme=github&utcOffset=8" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takeru-muto-kbt&margin-w=5)](https://github.com/takeru-muto-kbt/)
