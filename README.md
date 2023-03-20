@@ -1,7 +1,7 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=arduino,atom,aws,azure,autocad,bash,blender,c,cpp,css,docker,electron,firebase,flask,gcp,git,heroku,html,java,js,jquery,latex,mysql,nodejs,py,qt,react,swift,vim,wordpress" />
 
-## 🪪 LISENCE
+## 🪪 LICENSE
 
 <p align="left"> 
     <img src="https://user-images.githubusercontent.com/125637717/226385789-b5fa0f2e-4fdc-497d-b4f6-ee5db849060b.png" width="48px" style="padding: 300px;">
